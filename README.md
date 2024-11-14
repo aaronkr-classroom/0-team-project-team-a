@@ -83,3 +83,6 @@ GitHub Codespaces를 사용하여 코드 작성, 실행 및 수정이 가능합�
 Codespaces는 인터넷 연결만 있으면 어디서든지 사용 가능하므로 팀원들 간의 원활한 협업을 위해 적극 활용하세요.
 
 저장소 사용에 관한 질문이나 문제가 발생하면 지도교수에게 문의하세요.
+
+구글 코랩:https://drive.google.com/drive/folders/1uqG2YIy2gAngvWaF8nIBoxPTTqs_Cc5z?usp=drive_link
+https://colab.research.google.com/drive/1bwL714vTxc5u4HPvmgwCx7ZXmGH1CJB3?usp=drive_link
