@@ -3,7 +3,9 @@
 # 0-ml-team-projects
 
 IPYNB notebooks for ML Team Projects
+
 구글 드라이브: https://drive.google.com/drive/folders/1uqG2YIy2gAngvWaF8nIBoxPTTqs_Cc5z?usp=drive_link 
+
 코랩: https://colab.research.google.com/drive/1bwL714vTxc5u4HPvmgwCx7ZXmGH1CJB3?usp=drive_link
 
 [팀 프로젝트 설명 PPT](https://docs.google.com/presentation/d/1NO6_B8HVeR5WoJuTJXMgTgmhxURlt-uzPia3qDSeYsU/edit?usp=sharing)
